@@ -1,7 +1,7 @@
 name: via_cep_search
-description: Package para consulta de enredeço via CEP.
+description: Package para consulta de endereço via CEP.
 version: 1.0.0
-homepage:
+homepage: https://github.com/RMNDevelopmentMobility/via_cep_search
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
